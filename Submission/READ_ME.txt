@@ -24,7 +24,7 @@ https://jupyter.org/install
 
 
 The following packages were required to build the project. Please download them so that
-the relavent libraries will be available to the system.
+the relevant libraries will be available to the system.
 If you are unsure how to do this, please take a look at the following resource:
 https://packaging.python.org/tutorials/installing-packages/
 
